@@ -1,11 +1,26 @@
+html, body {
+	height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 300;
+}
+
 .navbar {
-    margin-bottom: 0;
+	margin-bottom: 0;
+	background: transparent;
+}
+
+.content-container {
+	/* navbar is 50px and footer is 60 px */
+	min-height: calc(100% - 110px);
+}
+
+.jumbotron {
+	margin-bottom: 0;
 }
 
 footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    padding: 20px;
-    background: #EEE;
+	padding: 20px;
+	background: #EEE;
 }
