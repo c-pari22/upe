@@ -10,7 +10,7 @@ document.write(`
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">&#933;&#928;&#917;</a>
+                <a class="navbar-brand" href="index.html">UPE</a>
             </div>
             <div class="collapse navbar-collapse" id="navbar-collapse">
                 <ul class="nav navbar-nav">
@@ -33,7 +33,7 @@ document.write(`
                             <li id="navbar-events"><a href="events.html">Events</a></li>
                         </ul>
                     </li>
-                    <li id="navbar-indrel"><a href="indrel.html">Industry Relations</a></li>
+                    <li id="navbar-indrel"><a href="indrel.html">Industrial Relations</a></li>
                 </ul>
             </div>
         </div>
