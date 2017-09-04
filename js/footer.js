@@ -1,6 +1,7 @@
 document.write(`
     <footer>
         <div class="container">
+            <br>
             <div class="row">
                 </div>
                 <div class="col-md-4">
@@ -21,7 +22,8 @@ document.write(`
                             Office
                         </h5>
                         <div>
-                            346 Soda Hall
+                            346 Soda Hall <br>
+                            Berkeley, CA 94704
                         </div>
                         <h5 class="footer-contact-header">
                             Office Hours
@@ -35,21 +37,22 @@ document.write(`
                         <div>
                             officers@upe.berkeley.edu
                         </div>
+                        <br>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div>
                         <h4>
-                            Follow Us
+                            Follow Us on Social Media
                         </h4>
                     </div>
                     <hr>
-                    <div>
+                    <div style="display: inline-block; padding: 30px 30px">
                         <a href="https://www.facebook.com/ucbupe">
                             <img src="img/fb-white.png" class="footer-icon">
                         </a>
                     </div>
-                    <div>
+                    <div style="display: inline-block; padding: 30px 10px">
                         <a href="https://www.instagram.com/upe_berkeley/">
                             <img src="img/ig-white.png" class="footer-icon">
                         </a>
